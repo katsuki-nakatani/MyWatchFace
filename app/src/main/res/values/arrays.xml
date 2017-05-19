@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="complication_simple_names">
+        <item>Left dial</item>
+        <item>Right dial</item>
+    </string-array>
+    <array name="complication_simple_icons">
+        <item>@drawable/ic_cc_checkmark</item>
+        <item>@drawable/ic_cc_checkmark</item>
+    </array>
+</resources>
